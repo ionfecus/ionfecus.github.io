@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionfecus.github.io/sitemap
+Sitemap: https://ionfecus.github.io/app/sitemap
+Sitemap: https://ionfecus.github.io/assets/sitemap
+Sitemap: https://ionfecus.github.io/css/sitemap
+Sitemap: https://ionfecus.github.io/includes/sitemap
+Sitemap: https://ionfecus.github.io/item/sitemap
+Sitemap: https://ionfecus.github.io/src/sitemap
